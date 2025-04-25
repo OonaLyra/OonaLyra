@@ -14,7 +14,6 @@ Com um olhar apurado para padrões e beleza estética, combino **análise de dad
 
 ## 🌈 **Redes Sociais**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/lucia-ovelha-lyra/)
-[![Behance](https://img.shields.io/badge/Behance-050a30?style=for-the-badge&logo=behance&logoColor=ff00ff)](https://www.behance.net/lucialyra)
 [![Instagram](https://img.shields.io/badge/Instagram-050a30?style=for-the-badge&logo=instagram&logoColor=ff00ff)](https://instagram.com/lyrapixelworks)
 
 ---
