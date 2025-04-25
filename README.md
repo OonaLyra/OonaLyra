@@ -15,7 +15,7 @@ Com um olhar apurado para padrões e beleza estética, combino **análise de dad
 ## 🌈 **Redes Sociais**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/lucia-ovelha-lyra/)
 [![Behance](https://img.shields.io/badge/Behance-050a30?style=for-the-badge&logo=behance&logoColor=ff00ff)](https://www.behance.net/lucialyra)
-[![Instagram](https://img.shields.io/badge/Instagram-050a30?style=for-the-badge&logo=instagram&logoColor=ff00ff)](https://instagram.com/lu.lyra.art)
+[![Instagram](https://img.shields.io/badge/Instagram-050a30?style=for-the-badge&logo=instagram&logoColor=ff00ff)](https://instagram.com/lyrapixelworks)
 
 ---
 
@@ -33,11 +33,9 @@ Com um olhar apurado para padrões e beleza estética, combino **análise de dad
 ![Photoshop](https://img.shields.io/badge/Photoshop-050a30?style=for-the-badge&logo=adobephotoshop&logoColor=00ffff)
 ![Lightroom](https://img.shields.io/badge/Lightroom-050a30?style=for-the-badge&logo=adobelightroom&logoColor=ff00ff)
 ![Canva](https://img.shields.io/badge/Canva-050a30?style=for-the-badge&logo=canva&logoColor=ff6f00)
-![Figma](https://img.shields.io/badge/Figma-050a30?style=for-the-badge&logo=figma&logoColor=ff00ff)
 
 ### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-050a30?style=for-the-badge&logo=git&logoColor=ff9900)
-![Jupyter](https://img.shields.io/badge/Jupyter-050a30?style=for-the-badge&logo=jupyter&logoColor=ff6f00)
 ![VS Code](https://img.shields.io/badge/VSCode-050a30?style=for-the-badge&logo=visualstudiocode&logoColor=00ffff)
 
 ---
@@ -45,7 +43,6 @@ Com um olhar apurado para padrões e beleza estética, combino **análise de dad
 ## 🎯 **Em Aprendizado Contínuo**:
 ![Machine Learning](https://img.shields.io/badge/Aprendendo_ML-050a30?style=for-the-badge&logoColor=ff00ff)
 ![Data Visualization](https://img.shields.io/badge/Storytelling_Visual-050a30?style=for-the-badge&logoColor=00ffff)
-![3D Modeling](https://img.shields.io/badge/Blender_3D-050a30?style=for-the-badge&logo=blender&logoColor=ff6f00)
 
 ---
 
