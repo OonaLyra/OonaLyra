@@ -50,5 +50,3 @@ Com um olhar apurado para padrões e beleza estética, combino **análise de dad
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luciaovelhadelyra&theme=default&hide_border=false&background=050a30&stroke=ff00ff&ring=87CEEB&fire=ff00ff&currStreakNum=00ffff&sideNums=87CEEB&currStreakLabel=ff00ff&sideLabels=00ffff&dates=87CEEB)
 
 ---
-
-> "Dados mostram verdades, a arte revela almas - na interseção dos dois encontramos a humanidade." 🌌
