@@ -46,7 +46,7 @@ Com foco em **Business Intelligence** e **Storytelling com Dados**, trabalho com
 ---
 
 ## 📈 **GitHub Stats**:
-![](https://github-readme-stats.vercel.app/api?username=luciaovelhadelyralyra&theme=default&hide_border=false&include_all_commits=true&count_private=false&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OonaLyra&theme=default&hide_border=false&include_all_commits=true&count_private=false&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OonaLyra&theme=default&hide_border=false&background=050a30&stroke=ff00ff&ring=87CEEB&fire=ff00ff&currStreakNum=00ffff&sideNums=87CEEB&currStreakLabel=ff00ff&sideLabels=00ffff&dates=87CEEB)
 
 ---
