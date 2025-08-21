@@ -1,52 +1,39 @@
-<h1>Lúcia Ovelha de Lyra</h1>
+<h1>Lúcia Katze Lyra</h1>
 
-🏳️‍⚧️ **Mulher Trans**
+**Analista de Dados Júnior · Power BI · SQL · ETL**
 
-📊 **Data Analyst Júnior | Apaixonada por Storytelling com Dados**
-
-🎨 **Editora de Imagens por Paixão**
-
----
-
-Com um olhar apurado para padrões e beleza estética, combino **análise de dados com criatividade visual**. Atualmente explorando o mundo de BI enquanto transformo pixels em arte nas horas vagas.
+🔗 <a href="https://linkedin.com/in/lucia-katze-lyra">LinkedIn</a> · 
+<a href="https://github.com/OonaLyra">GitHub</a> · 
+<a href="https://oonalyra.github.io">Portfólio</a>
 
 ---
 
-## 🌈 **Redes Sociais**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/lucia-ovelha-de-lyra/)
-[![Instagram](https://img.shields.io/badge/Instagram-050a30?style=for-the-badge&logo=instagram&logoColor=ff00ff)](https://instagram.com/lyrapixelworks)
+Com foco em **Business Intelligence** e **Storytelling com Dados**, trabalho com **Processos de ETL** (Python/Pandas, Power Query), **Modelagem de Dados** (dimensional) e **desenvolvimento de Dashboards** e **Relatórios** em **Power BI (DAX)**. Gosto de transformar **bases de dados** em **insights acionáveis** e apresentar resultados de forma clara e visual.
 
----
+## 🚀 Projetos em Destaque
+- **Dashboard de Vendas (Power BI)**  
+  ETL com **Power Query**, **modelagem em estrela**, KPIs (receita, ticket médio, crescimento).  
+  ➜ <a href="https://oonalyra.github.io/project_analysis.html">Acessar o projeto</a>
+- **Pipeline ETL (Python/SQL) — exemplo de portfólio**  
+  Ingestão de CSV, limpeza e padronização com **Pandas**, carga em **banco de dados**, checagens de qualidade e dicionário de dados.  
+  ➜ (adicione link quando publicar)
+- **EDA + Visualização (Jupyter/Matplotlib/Seaborn)**  
+  Exploração estatística, gráficos de séries temporais e comparativos por categoria; *notebook* reproduzível.  
+  ➜ (adicione link quando publicar)
 
-## 📚 **Stack Principal**:
+## 🧰 Stack Principal
+**Dados & BI:** Power BI · DAX · Power Query · Dashboards · Relatórios  
+**ETL & Qualidade:** ETL/ELT · limpeza/validação · padronização · dicionário de dados  
+**Linguagens & DB:** Python (Pandas) · SQL · Excel · Google Sheets  
+**Data Viz/Design (apoio):** Figma · Photoshop · Illustrator
 
-### 📈 Data Analysis
-![Python](https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-050a30?style=for-the-badge&logo=pandas&logoColor=ff00ff)
-![Excel](https://img.shields.io/badge/Excel-050a30?style=for-the-badge&logo=microsoftexcel&logoColor=00ffff)
-![PowerBI](https://img.shields.io/badge/Power_BI-050a30?style=for-the-badge&logo=powerbi&logoColor=ff00ff)
-![SQL](https://img.shields.io/badge/SQL-050a30?style=for-the-badge&logo=postgresql&logoColor=00ffff)
-![Tableau](https://img.shields.io/badge/Tableau-050a30?style=for-the-badge&logo=tableau&logoColor=ff6f00)
+## 📚 Em Aprendizado Contínuo
+**DAX avançado** · **Modelagem dimensional** · **Boas práticas de Power Query** · **SQL analítico**
 
-### 🎨 Image Editing
-![Photoshop](https://img.shields.io/badge/Photoshop-050a30?style=for-the-badge&logo=adobephotoshop&logoColor=00ffff)
-![Lightroom](https://img.shields.io/badge/Lightroom-050a30?style=for-the-badge&logo=adobelightroom&logoColor=ff00ff)
-![Canva](https://img.shields.io/badge/Canva-050a30?style=for-the-badge&logo=canva&logoColor=ff6f00)
+## 💬 Sobre mim
+🏳️‍⚧️ Mulher Trans · Apaixonada por **storytelling visual**, ciência aberta e documentação.  
+E-mail: lu.assis.5bc@gmail.com
 
-### ⚙️ Ferramentas
-![Git](https://img.shields.io/badge/Git-050a30?style=for-the-badge&logo=git&logoColor=ff9900)
-![VS Code](https://img.shields.io/badge/VSCode-050a30?style=for-the-badge&logo=visualstudiocode&logoColor=00ffff)
-
----
-
-## 🎯 **Em Aprendizado Contínuo**:
-![Machine Learning](https://img.shields.io/badge/Aprendendo_ML-050a30?style=for-the-badge&logoColor=ff00ff)
-![Data Visualization](https://img.shields.io/badge/Storytelling_Visual-050a30?style=for-the-badge&logoColor=00ffff)
-
----
-
-## 📈 **GitHub Stats**:
-![](https://github-readme-stats.vercel.app/api?username=luciaovelhadelyralyra&theme=default&hide_border=false&include_all_commits=true&count_private=false&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luciaovelhadelyra&theme=default&hide_border=false&background=050a30&stroke=ff00ff&ring=87CEEB&fire=ff00ff&currStreakNum=00ffff&sideNums=87CEEB&currStreakLabel=ff00ff&sideLabels=00ffff&dates=87CEEB)
-
----
+## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=OonaLyra&hide_border=false&show_icons=true" alt="GitHub stats de OonaLyra" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OonaLyra&hide_border=false" alt="GitHub streak de OonaLyra" />
