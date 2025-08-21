@@ -8,7 +8,7 @@
 
 ---
 
-Com um olhar apurado para padrões e beleza estética, combino **análise de dados com criatividade visual**. Atualmente explorando o mundo de BI enquanto transformo pixels em arte nas horas vagas.
+Com foco em **Business Intelligence** e **Storytelling com Dados**, trabalho com **Processos de ETL** (Python/Pandas, Power Query), **Modelagem de Dados** (dimensional) e **desenvolvimento de Dashboards** e **Relatórios** em **Power BI (DAX)**. Gosto de transformar **bases de dados** em **insights acionáveis** e apresentar resultados de forma clara e visual.
 
 ---
 
