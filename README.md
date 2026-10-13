@@ -7,7 +7,6 @@
             ]||    //"       Stack: PySpark, Databricks, Postgres, AWS
             ""    ""         Paradigms: Low-level, ETL, Data Modeling
         ,,.#``´´'''``#.,,    Projects: Vision (C), Bank API (Python)
-   /"°°'``               °~. Hobbies: Writing, Game Dev, Photo, Design
 
 
 ---
