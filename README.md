@@ -10,7 +10,7 @@
 
 
 ---
-
+```text
 $ cat hello.txt
 
 Hey! Welcome to my space. 🖤
@@ -27,3 +27,4 @@ software, you'll find me crafting stories, designing new arts or behind a camera
 ├── LinkedIn    : https://linkedin.com/in/lucia-katze-lyra
 └── Instagram   : https://instagram.com/lyrapixelworks (@lyrapixelworks)
 --------------------------------------------------------------------------------
+```
